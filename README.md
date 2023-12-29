@@ -1,22 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18358
-Fork on GitHub
-5450
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hey! 👋, I'm Mukhtar Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h align="center">---------------------------------------------------------------------</h>
 
+<h>📫 How to reach me Abdullah.mumtaz65@gmail.com</h>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mukhtarphysicist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukhtarphysicist" height="30" width="40" /></a>
