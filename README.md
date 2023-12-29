@@ -1,7 +1,7 @@
 preview
-<h1 align="center">Hey! 👋, I'm Mukhtar Shaikh</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<h align="center">---------------------------------------------------------------------</h>
+<h1>Hey! 👋, I'm Mukhtar Shaikh</h1>
+<h3>A passionate frontend developer from Pakistan</h3>
+<h>\n</h>
 
 <h>📫 How to reach me Abdullah.mumtaz65@gmail.com</h>
 <h3 align="left">Connect with me:</h3>
