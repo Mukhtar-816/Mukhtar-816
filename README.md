@@ -1,4 +1,3 @@
-preview
 <h1>Hey! 👋, I'm Mukhtar Shaikh</h1>
 <h3>A passionate frontend developer from Pakistan</h3>
 
