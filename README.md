@@ -1,9 +1,8 @@
 preview
 <h1>Hey! 👋, I'm Mukhtar Shaikh</h1>
 <h3>A passionate frontend developer from Pakistan</h3>
-<h>\n</h>
 
-<h>📫 How to reach me Abdullah.mumtaz65@gmail.com</h>
+<h>📫 How to reach me mukhtarshaikh816@gmail.com</h>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mukhtarphysicist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukhtarphysicist" height="30" width="40" /></a>
