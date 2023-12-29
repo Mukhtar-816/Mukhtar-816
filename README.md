@@ -36,12 +36,13 @@ Skills</h2>
 </ul>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/where I'm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="where I'm" /></a></p><br><br>
+<p></p>
 
 
 
 <p align="left" dir="auto">
-    <a href="https://github.com/Abdullah-146"><img src="https://camo.githubusercontent.com/28207a982bde7405956f59b9b4691b35ff8ecc827f86e6aac75567d78e478343/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416264756c6c61682d313436267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" width="500" alt="Abdullah-146" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-146&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a>
-<a href="https://github.com/Abdullah-146"><img src="https://camo.githubusercontent.com/73a005148cb0303b70b1b99cfdf50af51d3048bfb69a17961a96c9122fad83c9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d416264756c6c61682d3134362673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" width="450" alt="usamadevops" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-146&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
+    <a href="https://github.com/mrxalone1"><img src="https://camo.githubusercontent.com/28207a982bde7405956f59b9b4691b35ff8ecc827f86e6aac75567d78e478343/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416264756c6c61682d313436267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" width="500" alt="mrxalone1" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrxalone1&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a>
+<a href="https://github.com/mrxalone1"><img src="https://camo.githubusercontent.com/73a005148cb0303b70b1b99cfdf50af51d3048bfb69a17961a96c9122fad83c9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d416264756c6c61682d3134362673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" width="450" alt="usamadevops" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mrxalone1&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxalone1&" alt="mrxalone1" /></p>
