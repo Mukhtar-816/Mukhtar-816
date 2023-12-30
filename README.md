@@ -41,12 +41,12 @@ Skills</h2>
 
 
 <p align="left" dir="auto">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrxalone1&show_icons=true&locale=en&layout=compact" alt="mrxalone1" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhtar-816&show_icons=true&locale=en&layout=compact" alt="Mukhtar-816" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrxalone1&show_icons=true&locale=en" alt="mrxalone1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&locale=en" alt="Mukhtar-816" /></p>
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxalone1&" alt="mrxalone1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&" alt="Mukhtar-816" /></p>
 
 <h3>Thank you for visiting here!</h3>
