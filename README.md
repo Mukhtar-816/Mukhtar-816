@@ -1,7 +1,7 @@
 <h1>Hey! 👋, I'm Mukhtar Shaikh</h1>
 <h3>A passionate frontend developer from Pakistan</h3>
 
-<h>📫 How to reach me mukhtarshaikh816@gmail.com</h>
+<h>📫 How to reach me mukhtarshaikh.official@gmail.com</h>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
