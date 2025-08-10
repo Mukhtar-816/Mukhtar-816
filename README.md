@@ -88,17 +88,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukhtar-816&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukhtar-816&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🤝 Connect with me
