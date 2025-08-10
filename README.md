@@ -92,7 +92,7 @@
 
 ## 🤝 Connect with me
 
-<p align="center">
+<p align="start" gap="5px">
   <a href="mailto:mukhtarshaikh.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -106,24 +106,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/mukhtarshaikh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mukhtar-816/Mukhtar-816/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
