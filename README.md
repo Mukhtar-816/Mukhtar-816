@@ -84,22 +84,27 @@
 
 ## 📊 GitHub Ecosystem
 
+### 📈 Activity Overview
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=2196F3&text_color=FFFFFF&icon_color=2196F3&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=transparent&title_color=2196F3&text_color=FFFFFF&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=2196F3&icon_color=2196F3&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=tokyonight&hide_border=true&stroke=2196F3&fire=2196F3&ring=2196F3" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=transparent&hide_border=true&stroke=2196F3&fire=2196F3&ring=2196F3&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukhtar-816&theme=transparent" />
-</div>
-
----u
 ---
+
+### 🔠 Language & Contribution Insights
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=tokyonight&title_color=2196F3&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukhtar-816&theme=tokyonight" />
+</div>
+
+---
+
 
 ## 🤝 Connect with me
 
