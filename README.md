@@ -1,125 +1,86 @@
-# Hey! 👋 I'm Mukhtar Shaikh
+# 🚀 Muhammad Mukhtar | Full-Stack Software Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Backend+%26+Cloud+Architect;Low-Level+Systems+Enthusiast" alt="Typing SVG" />
 </div>
-
-<h3 align="center">🚀 A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukhtar-816&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Mukhtar-816?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Mukhtar-816&label=Profile%20Views&color=2196F3&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Mukhtar-816?label=Followers&style=flat-square&color=2196F3" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 Professional Summary
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm currently learning **Advanced React, Node.js, and MongoDB**
-- 👯 I'm looking to collaborate on **Full-Stack Web Applications**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and JavaScript**
-- 📫 How to reach me: **mukhtarshaikh.official@gmail.com**
-- ⚡ Fun fact: **I love building scalable web applications with the MERN stack!**
+I am a highly adaptable **Full-Stack Developer** based in Pakistan, currently leading **Studio Xenos**. With a strong foundation in both high-level web technologies and low-level system programming, I build applications that are not just functional, but scalable and performant. 
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-
-### 🚀 MERN Stack & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-</p>
-
-### 🎨 Frontend & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-</p>
-
-### 🗄️ Databases & Backend Services
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloudinary"/>
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+- 🔭 **Current Venture:** Leading a team of developers at **Studio Xenos** to deliver high-quality SaaS and Web solutions.
+- ⚡ **Specialization:** Advanced MERN stack development with a focus on **Redis Caching**, **Socket.io**, and **Service-DAL architecture**.
+- 🛠️ **Systems Knowledge:** Extensive experience in **C/C++** and **x86 Assembly (Irvine)** for memory-efficient computing.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Toolkit
+
+### 🌐 Web Ecosystem (MERN & Beyond)
+- **Frontend:** React.js, Next.js, Redux Toolkit, Context API
+- **Backend:** Node.js, Express.js, Nest.js, Socket.io
+- **Styling:** Tailwind CSS, Material UI, Framer Motion, Sass
+
+### 🗄️ Databases & Caching
+- **NoSQL:** MongoDB (Advanced Aggregations, Schema Design)
+- **SQL:** MySQL, PostgreSQL
+- **Caching:** Redis (Rate Limiting, Session Management, Pub/Sub)
+
+### 💻 System & Core Languages
+- **Low-Level:** x86 Assembly (Irvine), C, C++ (OOP & Data Structures)
+- **Scripting:** JavaScript (ES6+), Python, Java
+
+### ☁️ DevOps & Tools
+- **Deployment:** Railway, Vercel, AWS (EC2/S3), Netlify
+- **Tools:** Git/GitHub, Postman, Docker, Linux (CLI Mastery)
+
+---
+
+## 📂 Key Projects & Contributions
+
+### 🚗 E-Agencija | Vehicle Registration SaaS
+*A specialized platform for the Serbian automotive market.*
+- **Tech:** MERN + Redis + OCR (Google Cloud Vision).
+- **Impact:** Automated complex tax calculations and document extraction, reducing manual entry by 70%.
+
+### 🛒 Grocery Management SaaS
+*A B2B solution for inventory and supply chain tracking.*
+- **Tech:** Next.js, Node.js, PostgreSQL.
+- **Role:** Lead Backend Architect focusing on real-time inventory updates using WebSockets.
+
+---
+
+## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2196F3&icon_color=2196F3"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2196F3"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=tokyonight&hide_border=true&stroke=2196F3&fire=2196F3&ring=2196F3" alt="Streak Stats" />
+</p>
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Let's Build Something Great
 
-<p align="start" gap="5px">
-  <a href="mailto:mukhtarshaikh.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mukhtar-shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Mukhtar-816" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/mukhtarshaikh816" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+<p align="left">
+  <a href="mailto:mukhtarshaikh.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mukhtar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mukhtarshaikh816"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <h3>🌟 Thank you for visiting my profile! 🌟</h3>
-  <p>⭐ Star some repositories if you find them interesting!</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=30&section=footer&fontSize=15&text=Crafting%20Code%20with%20Precision"/>
 </div>
