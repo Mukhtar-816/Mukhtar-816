@@ -11,11 +11,10 @@
   <img src="https://img.shields.io/github/followers/Mukhtar-816?label=Followers&style=social" alt="followers" />
 </p>
 
---- give this part only chnace better dceent UI and details
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **MERN Stack Projects**
+- 🔭 I'm currently working on **Full Stack Projects**
 - 🌱 I'm currently learning **Advanced React, Node.js, and MongoDB**
 - 👯 I'm looking to collaborate on **Full-Stack Web Applications**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and JavaScript**
@@ -27,13 +26,20 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
 
 ### 💻 Programming Languages
+
+#### 🌐 High-Level & Web
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+#### ⚙️ Systems & Low-Level
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly_x86-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Irvine"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
