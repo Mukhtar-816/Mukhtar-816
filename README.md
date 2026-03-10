@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-🚀 MERN Stack & Libraries
+🚀 **MERN Stack & Libraries**
 <p align="left">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
 </p>
 
-🎨 Frontend & Styling
+🎨 **Frontend & Styling**
 <p align="left">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
-🗄️ Databases & Backend Services
+🗄️ **Databases & Backend Services**
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloudinary"/>
 </p>
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 <p align="left">
 <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
@@ -81,19 +81,24 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
----
 
-## 📊 GitHub Stats
+## 📊 GitHub Ecosystem
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukhtar-816&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=2196F3&text_color=FFFFFF&icon_color=2196F3&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtar-816&layout=compact&langs_count=8&theme=transparent&title_color=2196F3&text_color=FFFFFF&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtar-816&theme=transparent&hide_border=true&stroke=2196F3&fire=2196F3&ring=2196F3&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukhtar-816&theme=transparent" />
+</div>
+
+---u
 ---
 
 ## 🤝 Connect with me
