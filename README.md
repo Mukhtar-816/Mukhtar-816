@@ -1,14 +1,22 @@
-# Hey! 👋 I'm Mukhtar Shaikh
+# 🚀 Muhammad Mukhtar | Full-Stack Software Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Backend+%26+Cloud+Architect;Lead+at+Studio+Xenos;Low-Level+Systems+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Based-Pakistan-01411C?style=for-the-badge&logo=pakistan&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Systems-2196F3?style=for-the-badge&logo=node.js&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lead-Studio_Xenos-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Company" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukhtar-816&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Mukhtar-816?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/Mukhtar-816">
+    <img src="https://komarev.com/ghpvc/?username=Mukhtar-816&label=PROFILE+VIEWS&color=2196F3&style=flat-square" alt="Views" />
+  </a>
+  <a href="https://github.com/Mukhtar-816?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mukhtar-816?label=FOLLOWERS&style=flat-square&color=333333" alt="Followers" />
+  </a>
 </p>
 
 ---
