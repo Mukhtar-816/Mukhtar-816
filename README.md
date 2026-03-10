@@ -1,10 +1,10 @@
 # 🚀 Muhammad Mukhtar | Full-Stack Software Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 A passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mukhtar-816&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
